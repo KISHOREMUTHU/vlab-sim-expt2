@@ -69,7 +69,7 @@
 <img width="400" height="300" alt= "Subtractor" title="Differential Amplifier" src="https://firebasestorage.googleapis.com/v0/b/vlab-29a0a.appspot.com/o/vlab1%2Fsubtractor_amplifier.png?alt=media&token=e185d023-15fc-4769-810b-2e0d0391163f">
 </p>
 
-<p align="center">Citation : From Differential Amplifier By Wikipedia</p>
+<p align="center">Citation : From Differential Amplifier By BrainKart</p>
 
 
   - The differential amplifier amplifies the difference in voltage , which is present on its inverting and non-inverting inputs.
